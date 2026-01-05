@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LaserBeam
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: -2977252888489381498, guid: 1424c584a5e78c74b8c80906af86965b, type: 3}
+    - time: 0.18333334
+      value: {fileID: 5876439424703246697, guid: dddc517153bab1644968e5cd0693b768, type: 3}
+    - time: 0.3
+      value: {fileID: -177135477089828528, guid: c7f5ab2772984c549b3ac9fe4eb41df8, type: 3}
+    - time: 0.4
+      value: {fileID: -5216451265677867907, guid: 5d1ee6b9d539b934a839ab1e3b63efb1, type: 3}
+    - time: 0.5833333
+      value: {fileID: 2736029812559579461, guid: bdca7328f4f25f241a5743413715f26d, type: 3}
+    - time: 0.68333334
+      value: {fileID: 1395515070530986076, guid: 68b45ecf5925d944e98950b1f598b0d5, type: 3}
+    - time: 0.81666666
+      value: {fileID: 8734387900103132263, guid: 0973383efc1de734c92078262569e61f, type: 3}
+    - time: 0.98333335
+      value: {fileID: 7754449208332476395, guid: 68346f86503f95b40a339b10fffc0903, type: 3}
+    - time: 1.1
+      value: {fileID: 596150223188135408, guid: 74e351e0bdb1ca545a868926b8bf6869, type: 3}
+    - time: 1.2
+      value: {fileID: -7388614713056731152, guid: ec4c0762adb37b24c8aea4e7dbf2b457, type: 3}
+    - time: 1.4
+      value: {fileID: 4627524834922989457, guid: 7f184acce6940084da29b6a8fa6759a0, type: 3}
+    - time: 1.5
+      value: {fileID: 2869162297537155727, guid: d19a45fd9237f3d499513009618b019e, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: -2977252888489381498, guid: 1424c584a5e78c74b8c80906af86965b, type: 3}
+    - {fileID: 5876439424703246697, guid: dddc517153bab1644968e5cd0693b768, type: 3}
+    - {fileID: -177135477089828528, guid: c7f5ab2772984c549b3ac9fe4eb41df8, type: 3}
+    - {fileID: -5216451265677867907, guid: 5d1ee6b9d539b934a839ab1e3b63efb1, type: 3}
+    - {fileID: 2736029812559579461, guid: bdca7328f4f25f241a5743413715f26d, type: 3}
+    - {fileID: 1395515070530986076, guid: 68b45ecf5925d944e98950b1f598b0d5, type: 3}
+    - {fileID: 8734387900103132263, guid: 0973383efc1de734c92078262569e61f, type: 3}
+    - {fileID: 7754449208332476395, guid: 68346f86503f95b40a339b10fffc0903, type: 3}
+    - {fileID: 596150223188135408, guid: 74e351e0bdb1ca545a868926b8bf6869, type: 3}
+    - {fileID: -7388614713056731152, guid: ec4c0762adb37b24c8aea4e7dbf2b457, type: 3}
+    - {fileID: 4627524834922989457, guid: 7f184acce6940084da29b6a8fa6759a0, type: 3}
+    - {fileID: 2869162297537155727, guid: d19a45fd9237f3d499513009618b019e, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.5166667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []

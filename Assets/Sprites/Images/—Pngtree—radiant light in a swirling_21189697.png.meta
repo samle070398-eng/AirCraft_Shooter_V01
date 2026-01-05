@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: ed15a796e179e9f4a8c565f173411b18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 713331906220139117
+    second: "\u2014Pngtree\u2014radiant light in a swirling_21189697_0"
+  - first:
+      213: -6907833971464684564
+    second: "\u2014Pngtree\u2014radiant light in a swirling_21189697_1"
+  - first:
+      213: 6914431816033676480
+    second: "\u2014Pngtree\u2014radiant light in a swirling_21189697_2"
+  - first:
+      213: 1435230096408661351
+    second: "\u2014Pngtree\u2014radiant light in a swirling_21189697_3"
+  - first:
+      213: 8159679144771897545
+    second: "\u2014Pngtree\u2014radiant light in a swirling_21189697_4"
+  - first:
+      213: 7288786450727287665
+    second: "\u2014Pngtree\u2014radiant light in a swirling_21189697_5"
+  - first:
+      213: -2533331773112411444
+    second: "\u2014Pngtree\u2014radiant light in a swirling_21189697_6"
+  - first:
+      213: -5582054622755645881
+    second: "\u2014Pngtree\u2014radiant light in a swirling_21189697_7"
+  - first:
+      213: -2451868529202451733
+    second: "\u2014Pngtree\u2014radiant light in a swirling_21189697_8"
+  - first:
+      213: 1622001302720611366
+    second: "\u2014Pngtree\u2014radiant light in a swirling_21189697_9"
+  - first:
+      213: 4089404243815907508
+    second: "\u2014Pngtree\u2014radiant light in a swirling_21189697_10"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014radiant light in a swirling_21189697_0"
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 198
+        width: 2791
+        height: 2090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62243dd69346e900800000000000000
+      internalID: 713331906220139117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014radiant light in a swirling_21189697_1"
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2272
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebb87b2a917220a0800000000000000
+      internalID: -6907833971464684564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014radiant light in a swirling_21189697_2"
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 2265
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cca85a3a1ff4ff50800000000000000
+      internalID: 6914431816033676480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014radiant light in a swirling_21189697_3"
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 2265
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d43632b26fae310800000000000000
+      internalID: 1435230096408661351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014radiant light in a swirling_21189697_4"
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 2269
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8ca4943f00d3170800000000000000
+      internalID: 8159679144771897545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014radiant light in a swirling_21189697_5"
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 2275
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bb747c8a8f62560800000000000000
+      internalID: 7288786450727287665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014radiant light in a swirling_21189697_6"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1321
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca9c6dac2cc7dcd0800000000000000
+      internalID: -2533331773112411444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014radiant light in a swirling_21189697_7"
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 212
+        width: 118
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74692d545ee8882b0800000000000000
+      internalID: -5582054622755645881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014radiant light in a swirling_21189697_8"
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 225
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaade0309639fdd0800000000000000
+      internalID: -2451868529202451733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014radiant light in a swirling_21189697_9"
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 210
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62402e15791828610800000000000000
+      internalID: 1622001302720611366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014radiant light in a swirling_21189697_10"
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b04f9f3e7b70c830800000000000000
+      internalID: 4089404243815907508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014radiant light in a swirling_21189697_0": 713331906220139117
+      "\u2014Pngtree\u2014radiant light in a swirling_21189697_1": -6907833971464684564
+      "\u2014Pngtree\u2014radiant light in a swirling_21189697_10": 4089404243815907508
+      "\u2014Pngtree\u2014radiant light in a swirling_21189697_2": 6914431816033676480
+      "\u2014Pngtree\u2014radiant light in a swirling_21189697_3": 1435230096408661351
+      "\u2014Pngtree\u2014radiant light in a swirling_21189697_4": 8159679144771897545
+      "\u2014Pngtree\u2014radiant light in a swirling_21189697_5": 7288786450727287665
+      "\u2014Pngtree\u2014radiant light in a swirling_21189697_6": -2533331773112411444
+      "\u2014Pngtree\u2014radiant light in a swirling_21189697_7": -5582054622755645881
+      "\u2014Pngtree\u2014radiant light in a swirling_21189697_8": -2451868529202451733
+      "\u2014Pngtree\u2014radiant light in a swirling_21189697_9": 1622001302720611366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
